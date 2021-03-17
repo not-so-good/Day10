@@ -1,4 +1,4 @@
-// Only change coode below this line
+// Only change code below this line
 var myClothes = {
     hat: "Fedora",
     shirt: "Nike",
