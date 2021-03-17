@@ -1,4 +1,4 @@
-// Only change coode below this line
+// Only change code below this line
 var school = {
     name: "Arena",
     location: "Sarajevo",
@@ -7,7 +7,7 @@ var school = {
 //End of school object
 
 function myFunction(name){
-// Only change coode below this line
+// Only change code below this line
     school.name = name;
     return school;
 //Only change code above this line
