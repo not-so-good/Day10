@@ -9,7 +9,7 @@ function myFunction(myObj){
     var hatValue = myClothes.hat;
     var shirtValue = myClothes.shirt;
     var shoeValue = myClothes.shoes;
-    return {hatValue, shirtValue, shoeValue}
+    return {hatValue, shirtValue, shoeValue};
 }
 
 //Only change code above this line
