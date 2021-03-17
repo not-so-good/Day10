@@ -1,5 +1,5 @@
 function myFunction(toBeDeleted) {
-// Only change coode below this line
+// Only change code below this line
     lion = {
         name: "Simba",
         legs: 4,
