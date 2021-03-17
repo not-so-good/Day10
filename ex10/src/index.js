@@ -23,6 +23,7 @@ function myFunction() {
             },
         },
     };
+    return myMusic;
 }
-myFunction();
+console.log(myFunction());
 module.exports = myFunction;
