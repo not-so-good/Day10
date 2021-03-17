@@ -1,4 +1,4 @@
-// Only change coode below this line
+// Only change code below this line
 var myPet = {
     species: "Cat",
     name: "Sylvester",
